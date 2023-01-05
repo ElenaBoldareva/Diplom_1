@@ -1,3 +1,5 @@
+package burger;
+
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -10,7 +12,7 @@ import praktikum.Ingredient;
 import praktikum.IngredientType;
 
 @RunWith(MockitoJUnitRunner.class)
-public class BurgerPositiveTest {
+public class BurgerTest {
 
     @Mock
     Bun mockBun;
