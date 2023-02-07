@@ -1,3 +1,4 @@
 * linguist-vendored
+*.JavaScript linguist-vendored=false
+*.HTML linguist-vendored=false
 *.js linguist-vendored=false
-*.html linguist-vendored=false
